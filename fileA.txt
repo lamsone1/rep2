@@ -1,1 +1,2 @@
-jeste novejsi funkce ab
+<<<<<<< HEAD
+jeste novejsi funkce a vsechny dalsi
